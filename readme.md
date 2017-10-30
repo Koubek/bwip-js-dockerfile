@@ -16,5 +16,5 @@ bwip-js
 * Recommended execution:
 ```docker
 # If not using predefined _run.bat or _run.multiples.bat files you can simply run the following:
-docker run -d virt-u14:5000/bwip-js
+docker run -d koubek/bwip-js
 ```
