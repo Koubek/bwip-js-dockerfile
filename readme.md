@@ -1,6 +1,5 @@
 bwip-js
 ======
-**Librería JS basada en Pure Postscript Barcdode Generator written by Terry Burton**
 **[bwip-js - Barcode Writer in Pure JavaScript](https://github.com/metafloor/bwip-js)**
 ======
 * The container runs two threads:
