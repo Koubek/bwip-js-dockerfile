@@ -15,6 +15,6 @@ bwip-js
 
 * Recommended execution:
 ```docker
-# If not using predefined `_run.ps1` file you can simply run the following:
+# If not using predefined _run.ps1 file you can simply run the following:
 docker run -d koubek/bwip-js
 ```
