@@ -1,5 +1,7 @@
 ## Barcode Writer in Pure JavaScript as a **Windows Container**
 
+[![This image on DockerHub](https://img.shields.io/docker/pulls/koubek/bwip-js.svg)](https://hub.docker.com/r/koubek/bwip-js/)
+
 ---
 
 ### **bwip-js** is a translation to native JavaScript of the amazing code provided in [Barcode Writer in Pure PostScript](https://github.com/bwipp/postscriptbarcode). The translated code can run on any modern browser or JavaScript-based server framework.
@@ -9,6 +11,8 @@ The software has encoding modules for over 90 different barcode types and standa
 ---
 
 ### As I really love the original project I decided to create an image for **Windows Containers** (Docker) and make the user experience even better (please, I just mean less complicated to give all required parts together). Especially for those using Windows Containers. 
+
+### You can find the image on Docker Hub https://hub.docker.com/r/koubek/bwip-js/
 
 ### The container is running two separate processes:
 * One is providing the main HTTP API to generate the barcodes.
